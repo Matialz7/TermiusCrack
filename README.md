@@ -1,7 +1,7 @@
 # TermiusCrack
 Termius-pro-v8.9.1
   
- کرک کلاینت SSH/SFTP نسخه ویندوز 
+ کرک کلاینت  SSH/SFTP (ترمیوس) نسخه ویندوز 
     
 
 #Termius – SSH and SFTP client
