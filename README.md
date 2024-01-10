@@ -1,13 +1,14 @@
 # TermiusCrack
 Termius-pro-v8.9.1
   
- # کرک کلاینت SSH/SFTP نسخه پرو 
+ کرک کلاینت SSH/SFTP نسخه پرو 
     
 
 #Termius – SSH and SFTP client
   
-Download [Releases](https://github.com/Matialz7/TermiusCrack/releases/download/main/Termius.V8.9.1.zip)
-
+ Download [Releases](https://github.com/Matialz7/TermiusCrack/releases/download/main/Termius.V8.9.1.zip)
+  
+# نحوه استفاده 
   
 برنامه رو دانلود کنین (1.8.9)
   
