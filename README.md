@@ -18,7 +18,7 @@ C:\Users\[XXXXX]\AppData\Local\Programs\Termius\resources
 ```
 
 
-بهجای ```[XXXXX]``` یوزرنیم سیستمتون رو قرار بدین .
+به جای ```[XXXXX]``` یوزرنیم سیستمتون رو قرار بدین .
 
   
 و در اخر فایل ```app.asar``` رو پاک کنین .
